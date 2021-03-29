@@ -1,6 +1,6 @@
 # Airbnb_User_Analysis
 data source:Kaggle https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/data  
-**This analysis mainly involves four parts:
+**This analysis mainly involves four parts:**
 
 ## User Profile
 **Through data visualization, it can be found that:**  
